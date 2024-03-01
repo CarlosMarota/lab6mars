@@ -1,1 +1,1 @@
-# lab6mars
+https://carlosmarota.github.io/lab6mars/
